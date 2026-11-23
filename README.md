@@ -58,7 +58,7 @@ amazon-pay-customer-analytics/
 ├── data/
 ├── notebooks/
 ├── problem-statement/
-├── Tekton_DataZoids.pptx
+├── Tekton_DataZoids_5_0.pptx
 └── README.md
 ```
 
